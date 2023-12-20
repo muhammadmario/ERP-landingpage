@@ -1,0 +1,14 @@
+.section-with-wave {
+    min-height: 100vh;
+    max-width: 100vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    background-image: url('./assets/wave.png'); /* Adjust the path accordingly */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
