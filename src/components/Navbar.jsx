@@ -10,7 +10,7 @@ const Navbar = () => {
     <nav className="bg-transparent absolute top-0 w-full z-20 start-0 border-b border-gray-200 ">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <Link to={"/"}>
-          <span className="self-center text-2xl whitespace-nowrap text-white font-bold">
+          <span className="self-center text-2xl whitespace-nowrap text-black md:text-white font-bold">
             HOME
           </span>
         </Link>
